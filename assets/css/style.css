@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+
+/*------------------colours*/
+
+body {
+    background-color: #e9e7f1;
+}
+
+.ui-menu-color {
+    background-color: black;
+}
+
+
+/*------------------heading*/
+
+h1 {
+    width: 100%;
+    font-family: century gothic;
+    font-weight: 100;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+h4 {
+    font-family: century gothic;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 5px;
+    color: #808080;
+}
+
+.logo {
+    border-radius: 50%;
+    display: inherit;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-inline-item:not(:last-child){
+    margin:0;
+}
+
+.menucontainer{
+    font-size: 0;
+    
+}
+
+#nav li{
+    font-size: 20px;
+    text-align: center;
+    padding:7px 10px 10px 10px;
+    background-color: #d9c8ca;
+    color:black;
+    border-radius: 25px;
+    
+}
+
+.menuitem{
+    height:100%;
+}
+
+.menuitem a{
+    width:100%;
+    text-decoration: none;
+    color:#fff;
+    height: 100%;
+    display: block;
+}
+
+.menuitem span{
+    width: 100%
+}
+
+
+   
+/*------------------nav bar*/
+
+/*------------------footer*/
