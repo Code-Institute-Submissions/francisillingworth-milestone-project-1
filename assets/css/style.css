@@ -38,43 +38,135 @@ h4 {
     margin-right: auto;
 }
 
-.list-inline-item:not(:last-child){
-    margin:0;
+.list-inline-item:not(:last-child) {
+    margin: 0;
 }
 
-.menucontainer{
+.menucontainer {
     font-size: 0;
-    
+
 }
 
-#nav li{
+#nav li {
     font-size: 20px;
     text-align: center;
-    padding:7px 10px 10px 10px;
+    padding: 7px 10px 10px 10px;
     background-color: #d9c8ca;
-    color:black;
+    color: black;
     border-radius: 25px;
-    
+
 }
 
-.menuitem{
-    height:100%;
+.menuitem {
+    height: 100%;
 }
 
-.menuitem a{
-    width:100%;
+.menuitem a {
+    width: 100%;
     text-decoration: none;
-    color:#fff;
+    color: #fff;
     height: 100%;
     display: block;
 }
 
-.menuitem span{
+.menuitem span {
     width: 100%
 }
 
 
-   
-/*------------------nav bar*/
+
+
 
 /*------------------footer*/
+
+h5 {
+    margin: 0;
+    border-bottom-style: dotted;
+    border-bottom-color: white;
+}
+
+.uppercase {
+    text-transform: uppercase
+}
+
+.general-sub {
+    font-family: "nanum-Gothic", sans-serif;
+    color: white;
+}
+
+footer {
+    background-color: #d19c7d;
+    min-height: 100px;
+
+}
+
+.footer-text {
+    color: white;
+}
+
+/* credit to tkjaergaard  https://gist.github.com/tkjaergaard/1853190  for inspiration on making the map circular and for ideas for code make it happen */
+
+.container-map {
+    
+    text-align: center;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    height: 290px;
+    width: 290px;
+    border: 10px solid #f9cf92;
+    margin-bottom: 20px;
+}
+
+.container-map iframe {
+    position: absolute;
+    border-radius: 50%;
+    top: 0;
+    left: -10px;
+    
+}
+
+.social-links li a i {
+    width: 50px;
+    height: 50px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 26px;
+    text-align: center;
+    color: #fafafa;
+    background-color: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+
+}
+
+.social-links li a i:hover {
+    background-color: #f9cf92;
+    
+}
+
+.footer-nav{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.footer-nav a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.footer-nav:hover{
+    
+    color: #8f8f8f;
+}
+
+.footer-nav a:hover{
+    color: #8f8f8f;
+}
+
+
