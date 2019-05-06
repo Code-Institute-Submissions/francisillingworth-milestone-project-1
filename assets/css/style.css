@@ -174,8 +174,10 @@ h5 {
 }
 
 footer {
+    margin-top: 40px;
     background-color: #d19c7d;
     min-height: 100px;
+    padding-top: 20px;
 
 }
 
@@ -249,9 +251,48 @@ footer {
 }
 
 
+.introVideo{
+    width:100%;
+    margin-top:40px;
+}
 
 
 
+.homePagePara{
+    text-align: center;
+    font-family: century gothic; 
+    font-size: 20px;
+    font-weight: 300;
+    color: #808080;
+    width:98%;
+    margin-left: 1%
+}
+
+@media (min-width:576px){
+ 
+   .homePagePara{
+       margin-left: 15%;
+       margin-right:15%;
+       font-size: 30px;
+   }
+   .introVideo{
+       width: 90%;
+      margin-left: 5%
+   }
+}
+
+@media (min-width:768px){
+ 
+   .homePagePara{
+       margin-left: 15%;
+       margin-right:15%;
+       font-size: 30px;
+   }
+   .introVideo{
+       width: 60%;
+      margin-left: 20%
+   }
+}
 
 
 
