@@ -258,6 +258,8 @@ footer {
 
 
 
+/*-------------------------index.html*/
+
 .homePagePara{
     text-align: center;
     font-family: century gothic; 
@@ -265,8 +267,26 @@ footer {
     font-weight: 300;
     color: #808080;
     width:98%;
-    margin-left: 1%
+    margin-left: 1%;
+    margin-top:30px;
 }
+
+
+/*-------------------------Get in touch*/
+
+.contact-form{
+       margin-left: 5%;
+       margin-right:5%;
+       font-size: 20px;
+       font-weight: 200;
+       width: 90%;
+   }
+
+/* ------------------------relevant for all pages other than index.html*/
+.pageNav{
+    margin-top: 40px;
+}
+
 
 @media (min-width:576px){
  
@@ -274,12 +294,15 @@ footer {
        margin-left: 5%;
        margin-right:5%;
        font-size: 30px;
+       font-weight: 200;
        width: 90%;
    }
    .introVideo{
        width: 90%;
       margin-left: 5%
    }
+   
+   
    
 }
 
@@ -291,14 +314,22 @@ footer {
        font-size: 30px;
        width: 70%;
        
+       
    }
    
    .introVideo{
        width: 60%;
       margin-left: 20%
    }
+   
+   .contact-form{
+       margin-left: 15%;
+       margin-right:15%;
+       font-size: 20px;
+       width: 70%;
+       
+   }
 }
-
 
 
 
