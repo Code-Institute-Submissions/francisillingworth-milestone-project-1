@@ -6,9 +6,6 @@ body {
     background-color: #e9e7f1;
 }
 
-.ui-menu-color {
-    background-color: black;
-}
 
 
 /*------------------heading*/
@@ -56,7 +53,12 @@ h4 {
     background-color: #d9c8ca;
     color: black;
     border-radius: 25px;
+    margin-top: 10px;
 
+}
+
+#nav li:hover{
+    background-color: #bfa4a4
 }
 
 .menuitem {
@@ -216,7 +218,7 @@ footer {
     font-size: 26px;
     text-align: center;
     color: #fafafa;
-    background-color: #8f8f8f;
+    background-color: #a57474;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -271,23 +273,38 @@ footer {
     margin-top:30px;
 }
 
-
-/*-------------------------Get in touch*/
+/*-------------------------------get in touch*/
 
 .contact-form{
-       margin-left: 5%;
-       margin-right:5%;
+       margin-left: 1%;
+       margin-right:1%;
        font-size: 20px;
-       font-weight: 200;
-       width: 90%;
-   }
+       width: 98%;
+}
 
-/* ------------------------relevant for all pages other than index.html*/
-.pageNav{
-    margin-top: 40px;
+/*-------------------------------team*/
+
+.teamPic{
+    border-radius: 50%;
+    border: 10px solid #d9c8ca;
+    
+    
 }
 
 
+.katie{
+    border: 10px solid #f9cf92;
+}
+
+.bioPic{
+    padding-top: 20px;
+    text-align: center;
+}
+.bioPic:hover{
+    transform: scale(1.1);
+}
+
+/*-------------------------------@media*/
 @media (min-width:576px){
  
    .homePagePara{
