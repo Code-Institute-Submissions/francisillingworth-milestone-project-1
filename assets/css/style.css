@@ -271,14 +271,16 @@ footer {
 @media (min-width:576px){
  
    .homePagePara{
-       margin-left: 15%;
-       margin-right:15%;
+       margin-left: 5%;
+       margin-right:5%;
        font-size: 30px;
+       width: 90%;
    }
    .introVideo{
        width: 90%;
       margin-left: 5%
    }
+   
 }
 
 @media (min-width:768px){
@@ -287,7 +289,10 @@ footer {
        margin-left: 15%;
        margin-right:15%;
        font-size: 30px;
+       width: 70%;
+       
    }
+   
    .introVideo{
        width: 60%;
       margin-left: 20%
