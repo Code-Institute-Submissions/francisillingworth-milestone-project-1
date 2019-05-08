@@ -8,6 +8,6 @@ making it a useful tool to demonstate the many tools and skills I have picked up
 ## Demo
 
 A live demo of the website can be found [here](https://francisillingworth.github.io/milestone-project-1/index.html)\
-![screenshot.png](https://francisillingworth.github.io/milestone-project-1/index.html)
+[<img src="assets/images/screenshot.png">](https://francisillingworth.github.io/milestone-project-1/index.html)
 
 ## UX
