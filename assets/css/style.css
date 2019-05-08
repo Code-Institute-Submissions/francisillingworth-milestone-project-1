@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+
 
 /*------------------colours*/
 
@@ -101,7 +101,6 @@ btn-group-sm>.btn, .btn-sm {
 .nav-link{
     text-align: right;
     font-weight: 800;
-    
 }
 
 
@@ -287,9 +286,28 @@ footer {
 .teamPic{
     border-radius: 50%;
     border: 10px solid #d9c8ca;
+    text-align: center;
     
     
 }
+
+.bioName{
+    font-family: century gothic; 
+    font-size: 30px;
+    font-weight: 300;
+    color: #808080;
+   
+    
+}
+
+.bioPara{
+    
+    font-family: century gothic; 
+    font-size: 14px;
+    font-weight: 600;
+    color: #808080;}
+  
+   
 
 
 .katie{
@@ -304,6 +322,48 @@ footer {
     transform: scale(1.1);
 }
 
+
+
+/*-----------------------------------------classes*/
+
+.classesText{
+    font-family: century gothic;
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    color: #808080;
+}
+
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    border-radius: 10px;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.contact-us-modal{
+    color: #d19c7d;
+}
+
+.contact-us-modal:hover{
+    color:#a57474;
+    text-decoration: none;
+}
+    
+
+
+
+
 /*-------------------------------@media*/
 @media (min-width:576px){
  
@@ -311,7 +371,7 @@ footer {
        margin-left: 5%;
        margin-right:5%;
        font-size: 30px;
-       font-weight: 200;
+       font-weight: 100;
        width: 90%;
    }
    .introVideo{
