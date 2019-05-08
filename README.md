@@ -8,4 +8,6 @@ making it a useful tool to demonstate the many tools and skills I have picked up
 ## Demo
 
 A live demo of the website can be found [here](index.html)
-![logo.png](/assets/images/logo.png)
+![screenshot.png](/assets/images/screenshot.png)
+
+## UX
