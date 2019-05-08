@@ -7,7 +7,7 @@ making it a useful tool to demonstate the many tools and skills I have picked up
 
 ## Demo
 
-A live demo of the website can be found [here](index.html)\
-![screenshot.png](/assets/images/screenshot.png)
+A live demo of the website can be found [here](https://francisillingworth.github.io/milestone-project-1/index.html)\
+![screenshot.png](https://francisillingworth.github.io/milestone-project-1/index.html)
 
 ## UX
