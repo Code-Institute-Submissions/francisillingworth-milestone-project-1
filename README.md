@@ -7,7 +7,7 @@ making it a useful tool to demonstate the many tools and skills I have picked up
 
 ## Demo
 
-A live demo of the website can be found [here](index.html)
+A live demo of the website can be found [here](index.html)\
 ![screenshot.png](/assets/images/screenshot.png)
 
 ## UX
