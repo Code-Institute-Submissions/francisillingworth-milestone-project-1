@@ -227,6 +227,7 @@ footer {
 
 .social-links li a i:hover {
     background-color: #f9cf92;
+    transform: scale(1.15);
     
 }
 
@@ -282,6 +283,8 @@ footer {
 }
 
 /*-------------------------------team*/
+
+
 
 .teamPic{
     border-radius: 50%;
@@ -407,6 +410,14 @@ footer {
        width: 70%;
        
    }
+   
+   
+}
+
+@media (min-width:992px){
+    .meet-the-team{
+    text-align: left;
+}
 }
 
 
