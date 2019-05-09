@@ -28,9 +28,9 @@ vibe around Freewheelin immediately so there is less trepidation about making th
 
 ## Technologies
 
-1)HTML5
-2)CSS3
-3)Bootstrap v.4.3.1
+1)HTML5.
+2)CSS3.
+3)Bootstrap v.4.3.1.
 
 ## Features
 
