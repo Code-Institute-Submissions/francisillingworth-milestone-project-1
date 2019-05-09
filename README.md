@@ -17,7 +17,7 @@ prospective newcomers dont feel intimidated, be that by information overload, ha
 To do this I have created a minimalist design where each page contains small amounts of the most important information.
 The idea behind this was to not overload the visitor and put them at a sense of ease.
 This thought process also translated into all aspects of the page. Elements are all rounded not just to feel
-fun but also to be neutral and welcoming as opposed to harsh baxes with sharp boxes (you will notice only the youtube clip on index.html has real square corners- 
+fun but also to be neutral and welcoming as opposed to harsh baxes with sharp corners (you will notice only the youtube clip on index.html has real square corners- 
 these were kept because of peoples familiarity with the format of youtube videos).
 I also chose a pastel color palate to create something both bright but also welcoming, I also feel it fits in with modern styles in web development where softer colours
 are favoured over harsher brighter colours.
@@ -28,9 +28,9 @@ vibe around Freewheelin immediately so there is less trepidation about making th
 
 ## Technologies
 
-HTML5
-CSS3
-Bootstrap v.4.3.1
+1)HTML5
+2)CSS3
+3)Bootstrap v.4.3.1
 
 ## Features
 
