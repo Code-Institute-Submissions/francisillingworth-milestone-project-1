@@ -21,7 +21,7 @@ fun but also to be neutral and welcoming as opposed to harsh baxes with sharp bo
 these were kept because of peoples familiarity with the format of youtube videos).
 I also chose a pastel color palate to create something both bright but also welcoming, I also feel it fits in with modern styles in web development where softer colours
 are favoured over harsher brighter colours.
-/
+\
 Bringing all these points together this website aims to be as friendly and welcoming as possible. The main barrier to gaining new members to the dance comapny is the fear 
 people have of coming down for the first time as they dont know people, what to expect etc. By putting people at ease on the website I hope to create a friendly
 vibe around Freewheelin immediately so there is less trepidation about making the leap and coming down to a class for the first time.
@@ -34,30 +34,30 @@ Bootstrap v.4.3.1
 
 ## Features
 
-The site features:\
-1) The bootstrap grid system layout.\
-2) A burger icon nav link that is responsive with the page nav bar so neither ever appear at the same time.\
-3) 2x bootstrap modals. One for registering to be contacted about a donation, One for sending an email with questions about classes.\
-4) Embedded responsive maps and videos.\
+The site features:
+1) The bootstrap grid system layout.
+2) A burger icon nav link that is responsive with the page nav bar so neither ever appear at the same time.
+3) 2x bootstrap modals. One for registering to be contacted about a donation, One for sending an email with questions about classes.
+4) Embedded responsive maps and videos.
 5) Resonsive icon links that are hover sensitive using font awesome icons and hover.css from Github
 
 ### Features left to implement
 
-There are a few features that I would like to implement further down the line. \
-1) A picture carousel on index.html and a gallery page containing photos and videos of performances.\
-2) An online payment platform (e.g paypal) on the donation link as opposed to registering and getting someone to contact you about a donation.\
-3) I'd like to add a page about future an past performances as well as news.\
+There are a few features that I would like to implement further down the line. 
+1) A picture carousel on index.html and a gallery page containing photos and videos of performances.
+2) An online payment platform (e.g paypal) on the donation link as opposed to registering and getting someone to contact you about a donation.
+3) I'd like to add a page about future an past performances as well as news.
 
 
 ## Testing
 
 The website has been tested extensively on android phones and tablets as well as iOS devices (iphone and ipad) with a font change to sans-serif required to run on iOS.
-The website also runs smoothly on multiple browsers (chrome, firefox and safari).\
+The website also runs smoothly on multiple browsers (chrome, firefox and safari).
 
-All links to external sites open on new tabs to avoid visitor being navigated away from the website. all intenal links open within the same tab.\
+All links to external sites open on new tabs to avoid visitor being navigated away from the website. all intenal links open within the same tab.
 
 There are required fields in both the donate and contact us forms that will stop the form being submitted without being completed with an accompanying error message with the fault stated. The email sections also require an email address (@)to
-be entered before allowoing form submission.\
+be entered before allowoing form submission.
 
 ## Deployment
 
@@ -71,7 +71,7 @@ All content was written by myself with the exception of the biographies of the t
 
 ### Media
 
-All photos, images and videos were supplied by Freewheelin.\
+All photos, images and videos were supplied by Freewheelin.
 
 Maps were taken from google maps.
 
