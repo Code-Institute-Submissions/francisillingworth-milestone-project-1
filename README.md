@@ -16,11 +16,21 @@ The goal of my design was to create a welcoming website with the primary goal of
 prospective newcomers dont feel intimidated, be that by information overload, harsh visual design and blunt language.\
 To do this I have created a minimalist design where each page contains small amounts of the most important information.
 The idea behind this was to not overload the visitor and put them at a sense of ease.
-This thought process also translated into all aspects of the page. Elements are all rounded not just to feel
+This thought process translated into all aspects of the page. Elements are all rounded not just to feel
 fun but also to be neutral and welcoming as opposed to harsh baxes with sharp corners (you will notice only the youtube clip on index.html has real square corners- 
 these were kept because of peoples familiarity with the format of youtube videos).
 I also chose a pastel color palate to create something both bright but also welcoming, I also feel it fits in with modern styles in web development where softer colours
 are favoured over harsher brighter colours.
+\
+The website is designed as mobile first. You will notice that there are multiple changes when moving from desktop to mobile device sizes. For example, the page title 
+(freewheelin-Inclusive dance) and nav bar disappears as you move to below the destop size. This is because whilst on a desktop it allows for smooth movement between pages where only the content appears
+to change, on tablet and mobile devices they take up too much real estate on the screen. Couple this with the fact that below desktop size the nav bar is condensed into a burger icon, then
+smoothness of transition between pages is less of a priority here. Another example of this is that I decided to include a map in the footer for mobile devices only whilst inserting a link to the map 
+on classes.html in the footer for all larger devices. The reason here being that a map on a mobile device may be useful for someone actually in the vacinity trying to find the location so by putting it in the 
+footer of mobile devices they will not have to navigate the website to find it. Whereas on larger devices where it is unlikely someone will be walking around with it open (i.e laptop), the map takes up too
+much real estate on the footer making it look ugly, this is why for devices larger than phones there is simply a link to the map in classes.html making the footer apper much more
+concise and neat.
+
 \
 Bringing all these points together this website aims to be as friendly and welcoming as possible. The main barrier to gaining new members to the dance comapny is the fear 
 people have of coming down for the first time as they dont know people, what to expect etc. By putting people at ease on the website I hope to create a friendly
@@ -54,10 +64,10 @@ There are a few features that I would like to implement further down the line.
 The website has been tested extensively on android phones and tablets as well as iOS devices (iphone and ipad) with a font change to sans-serif required to run on iOS.
 The website also runs smoothly on multiple browsers (chrome, firefox and safari).
 
-All links to external sites open on new tabs to avoid visitor being navigated away from the website. all intenal links open within the same tab.
+All links to external sites open on new tabs to avoid visitor being navigated away from the website. All intenal links open within the same tab.
 
 There are required fields in both the donate and contact us forms that will stop the form being submitted without being completed with an accompanying error message with the fault stated. The email sections also require an email address (@)to
-be entered before allowoing form submission.
+be entered before allowing form submission.
 
 ## Deployment
 
@@ -67,7 +77,7 @@ The website is hosted by GitHub Pages and is deployed from the master branch.
 
 ### Content
 
-All content was written by myself with the exception of the biographies of the team members on team.html
+All content was written by myself with the exception of the biographies of the team members on team.html, these were provided by Helen Mason of Freewheelin.
 
 ### Media
 
