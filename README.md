@@ -71,7 +71,7 @@ be entered before allowing form submission.
 
 ## Deployment
 
-The website is hosted by GitHub Pages and is deployed from the master branch.
+The website is hosted by GitHub Pages and is deployed from the master branch. You can git clone the code to run it locally on your machine.
 
 ## Credits
 
