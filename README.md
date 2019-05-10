@@ -49,14 +49,14 @@ The site features:
 2) A burger icon nav link that is responsive with the page nav bar so neither ever appear at the same time.
 3) 2x bootstrap modals. One for registering to be contacted about a donation, One for sending an email with questions about classes.
 4) Embedded responsive maps and videos.
-5) Resonsive icon links that are hover sensitive using font awesome icons and hover.css from Github
+5) Resonsive icon links that are hover sensitive using font awesome icons and hover.css from Github.
 
 ### Features left to implement
 
 There are a few features that I would like to implement further down the line. 
 1) A picture carousel on index.html and a gallery page containing photos and videos of performances.
 2) An online payment platform (e.g paypal) on the donation link as opposed to registering and getting someone to contact you about a donation.
-3) I'd like to add a page about future an past performances as well as news.
+3) I'd like to add a page about future and past performances as well as news.
 
 
 ## Testing
