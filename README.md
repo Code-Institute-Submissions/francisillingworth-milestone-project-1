@@ -17,18 +17,18 @@ prospective newcomers dont feel intimidated, be that by information overload, ha
 To do this I have created a minimalist design where each page contains small amounts of the most important information.
 The idea behind this was to not overload the visitor and put them at a sense of ease.
 This thought process translated into all aspects of the page. Elements are all rounded not just to feel
-fun but also to be neutral and welcoming as opposed to harsh baxes with sharp corners (you will notice only the youtube clip on index.html has real square corners- 
+fun but also to be neutral and welcoming as opposed to harsh boxes with sharp corners (you will notice only the youtube clip on index.html has real square corners- 
 these were kept because of peoples familiarity with the format of youtube videos).
-I also chose a pastel color palate to create something both bright but also welcoming, I also feel it fits in with modern styles in web development where softer colours
+I chose a pastel color palate to create something both bright but also welcoming, I also feel it fits in with modern styles in web development where softer colours
 are favoured over harsher brighter colours.
 \
 The website is designed as mobile first. You will notice that there are multiple changes when moving from desktop to mobile device sizes. For example, the page title 
-(freewheelin-Inclusive dance) and nav bar disappears as you move to below the destop size. This is because whilst on a desktop it allows for smooth movement between pages where only the content appears
+(Freewheelin-Inclusive dance) and nav bar disappears as you move to below the destop size. This is because whilst on a desktop it allows for smooth movement between pages where only the content appears
 to change, on tablet and mobile devices they take up too much real estate on the screen. Couple this with the fact that below desktop size the nav bar is condensed into a burger icon, then
 smoothness of transition between pages is less of a priority here. Another example of this is that I decided to include a map in the footer for mobile devices only whilst inserting a link to the map 
 on classes.html in the footer for all larger devices. The reason here being that a map on a mobile device may be useful for someone actually in the vacinity trying to find the location so by putting it in the 
 footer of mobile devices they will not have to navigate the website to find it. Whereas on larger devices where it is unlikely someone will be walking around with it open (i.e laptop), the map takes up too
-much real estate on the footer making it look ugly, this is why for devices larger than phones there is simply a link to the map in classes.html making the footer apper much more
+much real estate on the footer making it look ugly This is why for devices larger than phones there is simply a link to the map in classes.html making the footer apper much more
 concise and neat.
 
 \
